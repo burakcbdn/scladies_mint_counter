@@ -1,0 +1,33 @@
+#connect_wallet_button {
+  border-radius: 10px;
+  min-width: 200px;
+  max-width: 450px;
+}
+
+#launch_title {
+  font-size: 35px;
+  margin-bottom: 0px;
+  margin-top: 30px;
+  text-align: center;
+  font-weight: normal;
+}
+#total_minted {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+
+}
+
+#more_details {
+  text-align: center;
+  font-size: 17px;
+  padding-top:20px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#more_details:hover {
+  color: #c53636;
+  
+}
